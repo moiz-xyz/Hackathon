@@ -10,12 +10,10 @@ height: 68px;
 gap: 10px;
 opacity: 0px;
 display: flex;
-border: 1px solid green;
 }
 .frame1{
     width: 30%;
 opacity: 0px;
-border: 2px solud red;
 margin-left: 100px;
 text-align: center;
 margin-top: 20px;
@@ -33,7 +31,6 @@ opacity: 0px;
 }
 .frame2{
     width: 50% ;
-    border: 3px solid orange;
   
 opacity: 0px;
 
@@ -41,17 +38,19 @@ display: flex;
 
 }
 .btn1{
-    border: 1px solid green;
     text-align: center;
     width: 20%;
     height: auto;
-    font-size: x-large;
+    font-size: large;
     margin-right: 10px;
+    height: 8vh;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
 }
 .head{
     width: 100%;
     display: flex;
-    border: 1px solid blue;
 }
 .Navigating{
     width: 50%; 
@@ -60,11 +59,9 @@ display: flex;
 }
 .Navigating>h1{
   font-size: 60px;
-  border: 1px solid red;
   width: 550px;
 }
 .Navigating>p{
-    border: 1px solid green;
     font-size: x-large;
     width: 350px;
 }
@@ -123,13 +120,11 @@ color: white;
 }
 .arrow{
     background-color: black;
-    border: 1px solid red;
     border-radius: 100%;
     margin-left: 10px;
     margin-top: 40px;
 }
 .ill >img{
-    border: 2px solid green;
     margin-top: 10px
 }
 .click{
